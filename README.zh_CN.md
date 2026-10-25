@@ -1,13 +1,15 @@
 <p align="right"><strong>简体中文</strong> · <a href="README.md">English</a></p>
 
-# 洛天依 AI Passport 语音助手
+# 可自定义聊天机器人
 
 基于 FoloToy AI Passport、ESP-IDF 和 LVGL 的可定制语音伙伴。
 在 ESP32-C3 设备上按键说话，即可查看文字回答并收听语音。
 
-本项目是基于 [FoloToy AI Passport](https://github.com/FoloToy/ai-passport)
-开发的非官方同人项目，与洛天依角色权利方没有关联。
-默认合成音色是腾讯云提供的通用音色，并非洛天依官方声库或声音克隆。
+通过网页修改名称、人设、提示词、主题色和壁纸，打造自己的聊天助手。
+
+本项目基于 [FoloToy AI Passport](https://github.com/FoloToy/ai-passport) 开发。
+内置角色预设仅为非官方示例，与角色权利方没有关联。
+合成音色使用腾讯云通用音色，并非角色官方声库或声音克隆。
 
 ## 主要功能
 

@@ -1,15 +1,19 @@
 <p align="right"><a href="README.zh_CN.md">简体中文</a> · <strong>English</strong></p>
 
-# Luo Tianyi AI Passport
+# Customizable AI Chatbot
 
 A customizable voice companion for the FoloToy AI Passport, built with ESP-IDF
 and LVGL. Press a button, speak, and read or listen to the answer on a compact
 ESP32-C3 device.
 
-This is an unofficial fan project derived from
-[FoloToy AI Passport](https://github.com/FoloToy/ai-passport). It is not affiliated
-with the owners of the Luo Tianyi character. The default synthesized voice is a
-Tencent Cloud stock voice, not an official Luo Tianyi voice or voice clone.
+Build your own assistant by changing its name, persona, instructions, theme,
+and wallpaper through the web settings.
+
+This project is derived from
+[FoloToy AI Passport](https://github.com/FoloToy/ai-passport). Bundled character
+presets are unofficial examples and are not affiliated with their rights
+holders. Synthesized speech uses Tencent Cloud stock voices, not official
+character voices or voice clones.
 
 ## Features
 
